@@ -1,0 +1,8 @@
+{
+  "name": "klervicn-ping-server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/klervicn/klervicn-ping-server",
+  "author": "klervicn <corbel.klervi@gmail.com>",
+  "license": "MIT"
+}
